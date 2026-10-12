@@ -1,5 +1,18 @@
 # Changelog
 
+## [0.76.0](https://github.com/aquasecurity/trivy/compare/v0.75.0...v0.76.0) (2026-10-12)
+
+
+### Features
+
+* **crypto:** distinguish DSA algorithms by L and N ([#11366](https://github.com/aquasecurity/trivy/issues/11366)) ([bcc9bd4](https://github.com/aquasecurity/trivy/commit/bcc9bd47fa67dd251312d0b361fa568a108f0cac))
+* **echo:** support Echo Maven and npm package scanning ([#10883](https://github.com/aquasecurity/trivy/issues/10883)) ([7c1b1fa](https://github.com/aquasecurity/trivy/commit/7c1b1fa19f1628132a9e8377fed127682500d87d))
+
+
+### Bug Fixes
+
+* **echo:** match +echo.N local segment anywhere in pip versions ([#11367](https://github.com/aquasecurity/trivy/issues/11367)) ([bfb43a4](https://github.com/aquasecurity/trivy/commit/bfb43a49642fbdf60f5e794bba5982fdaa433136))
+
 ## [0.75.0](https://github.com/aquasecurity/trivy/compare/v0.74.0...v0.75.0) (2026-10-01)
 
 
